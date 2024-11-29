@@ -25,7 +25,7 @@ Infrastructure,assess,Lambda,\uf0627,,https://aws.amazon.com/lambda/
 Infrastructure,assess,Karpenter,,,https://karpenter.sh/v0.37/getting-started/getting-started-with-karpenter/
 Infrastructure,assess,Kubernetes,\uf10fe,,https://github.com/test-jppolitikenshus/internal-developer-platform/blob/main/architecture-decision-records/006-container-orkestrering.md
 Infrastructure,assess,AWS SQS,,asdf
-Infrastructure,assess,AWS SNS,,
+Infrastructure,assess,AWS SNS,,asdf
 Infrastructure,assess,AWS ECR,,
 Infrastructure,assess,DockerHub,,
 Infrastructure,assess,AWS Route53,,,

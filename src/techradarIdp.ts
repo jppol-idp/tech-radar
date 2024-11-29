@@ -1,7 +1,7 @@
 import { TechradarData } from "../../lib/main";
 
 const data: TechradarData = {
-  "id": "Internal Developer Platform",
+  "id": "IDP",
   "rings": [
     {
       "id": "adopt",

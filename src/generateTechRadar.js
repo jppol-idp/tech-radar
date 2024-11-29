@@ -31,7 +31,7 @@ const parseFile = async (filePath, separator = ',') => {
 const transformData = (parsedData) => {
   const TECH_RADAR_RINGS = ['adopt', 'trial', 'assess', 'hold'];
   const techradarData = /** @type {TechradarData} */ ({
-    id: "Internal Developer Platform",
+    id: "IDP",
     rings: [
       { id: "adopt", name: "ADOPT" },
       { id: "trial", name: "TRIAL" },
