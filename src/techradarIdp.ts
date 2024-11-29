@@ -154,7 +154,7 @@ const data: TechradarData = {
       "blipsByRing": {
         "adopt": [
           {
-            "name": "2 person integrity Vault in Rust",
+            "name": "2-3 person integrity Vault in Rust",
             "state": "up",
             "url": "https://eb.dk/"
           },
