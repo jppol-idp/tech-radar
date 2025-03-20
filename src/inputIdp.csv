@@ -6,6 +6,7 @@ Networking & Security,assess,Trivy,,,https://aquasecurity.github.io/trivy/v0.28.
 Networking & Security,assess,SPIRE / SPIFFE,,,https://spiffe.io/docs/latest/spire-helm-charts-hardened-about/installation/
 Networking & Security,assess,Kyverno,,,https://kyverno.github.io/kyverno/
 Networking & Security,assess,Github Advanced Security,,,
+Networking & Security,adopt,,,Allans fashion blog
 
 Datastores,assess,RDS Postgres,\ue76e,,https://aws.amazon.com/rds/postgresql/
 Datastores,assess,AuroraV2,\ue76e,,https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/aurora-serverless-v2.html
