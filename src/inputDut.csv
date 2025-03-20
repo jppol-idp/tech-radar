@@ -1,21 +1,21 @@
 sliceName,ringId,name,icon,state,url
-Datastores,adopt,AWS EBS,,,https://aws.amazon.com/ebs/
-Datastores,adopt,AWS EFS,,,https://aws.amazon.com/efs/
-Datastores,adopt,AWS S3,,,
-Datastores,adopt,PostgreSQL,\ue76e,,https://aws.amazon.com/rds/postgresql/
-Infrastructure as code,adopt,GitOps,,,https://akkireddy.medium.com/rethinking-gitops-moving-beyond-branch-based-deployment-4605f078ef0e
-Infrastructure as code,assess,CDK,,,https://aws.amazon.com/cdk/
-Infrastructure as code,assess,Crossplane,,,https://docs.crossplane.io/latest/software/install/
-Infrastructure as code,assess,GitOps,,,https://akkireddy.medium.com/rethinking-gitops-moving-beyond-branch-based-deployment-4605f078ef0e
-Infrastructure as code,assess,Terraform,\uf1062,,https://opentofu.org
-Infrastructure as code,trial,Crossplane,,,https://docs.crossplane.io/latest/software/install/
-Infrastructure,adopt,Containers,\uf4b7,,https://dygtighest.dk
-Infrastructure,adopt,Hitachi SAN,,,https://172.24.11.50/mgr/app/action/report.StatReportAction/eventsubmit_doperform/ignored/f5/true
-Infrastructure,adopt,Microsoft Entra,\uf0805,,https://www.microsoft.com/en-us/security/business/microsoft-entra
-Infrastructure,adopt,VMWare,,,https://vmvc55u2.rootdom.dk/websso/SAML2/SSO/vsphere.local
-Infrastructure,assess,AWS Backup Vault,,,
-Infrastructure,assess,AWS ECR,,
-Infrastructure,assess,AWS Route53,,,
+#Datastores,adopt,AWS EBS,,,https://aws.amazon.com/ebs/
+#Datastores,adopt,AWS EFS,,,https://aws.amazon.com/efs/
+#Datastores,adopt,AWS S3,,,
+#Datastores,adopt,PostgreSQL,\ue76e,,https://aws.amazon.com/rds/postgresql/
+#Infrastructure as code,adopt,GitOps,,,https://akkireddy.medium.com/rethinking-gitops-moving-beyond-branch-based-deployment-4605f078ef0e
+#Infrastructure as code,assess,CDK,,,https://aws.amazon.com/cdk/
+#Infrastructure as code,assess,Crossplane,,,https://docs.crossplane.io/latest/software/install/
+#Infrastructure as code,assess,GitOps,,,https://akkireddy.medium.com/rethinking-gitops-moving-beyond-branch-based-deployment-4605f078ef0e
+#Infrastructure as code,assess,Terraform,\uf1062,,https://opentofu.org
+#Infrastructure as code,trial,Crossplane,,,https://docs.crossplane.io/latest/software/install/
+#Infrastructure,adopt,Containers,\uf4b7,,https://dygtighest.dk
+#Infrastructure,adopt,Hitachi SAN,,,https://172.24.11.50/mgr/app/action/report.StatReportAction/eventsubmit_doperform/ignored/f5/true
+#Infrastructure,adopt,Microsoft Entra,\uf0805,,https://www.microsoft.com/en-us/security/business/microsoft-entra
+#Infrastructure,adopt,VMWare,,,https://vmvc55u2.rootdom.dk/websso/SAML2/SSO/vsphere.local
+#Infrastructure,assess,AWS Backup Vault,,,
+#Infrastructure,assess,AWS ECR,,
+#Infrastructure,assess,AWS Route53,,,
 Infrastructure,assess,AWS SNS,,
 Infrastructure,assess,AWS SQS,,
 Infrastructure,assess,AWS incident manager,,,
