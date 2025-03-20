@@ -1,8 +1,8 @@
 import { useState } from 'react';
 import Techradar, { TechradarData } from '../lib/main'
 import idp from './techradarIdp';
-import feat from './techradarFeat';
-import ops from './techradarInf';
+//import feat from './techradarFeat';
+//import ops from './techradarInf';
 import dut from './techradarDut';
 
 function App() {
@@ -17,7 +17,7 @@ function App() {
           <button style={{ margin: "5px", marginLeft: "0px" }} onClick={() => setExample(idp)}>IDP</button>
           <button style={{ margin: "5px" }} onClick={() => setExample(feat)}>Produkt Teams</button>
           <button style={{ margin: "5px" }} onClick={() => setExample(ops)}>IT Operations</button>
-          <button style={{ margin: "5px" }} onClick={() => setExample(dut)}>Den store DUT radar</button>
+          <button style={{ margin: "5px" }} onClick={() => setExample(dut)}>DUT radar</button>
         </div>
 
         <h1 style={{ fontFamily: "Arial, Helvetica", fontSize: "30px", fontWeight: "bold", marginBottom: "0px" }}>Techradar</h1>
