@@ -16,7 +16,7 @@ sliceName,ringId,name,icon,state,url
 #Infrastructure,assess,AWS Backup Vault,,,
 #Infrastructure,assess,AWS ECR,,
 #Infrastructure,assess,AWS Route53,,,
-Infrastructure,assess,AWS SNS,,
+#Infrastructure,assess,AWS SNS,,
 Infrastructure,assess,AWS SQS,,
 Infrastructure,assess,AWS incident manager,,,
 Infrastructure,assess,AWS kubernetes,,
