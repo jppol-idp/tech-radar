@@ -1,7 +1,7 @@
 import { TechradarData } from "../../lib/main";
 
 const data: TechradarData = {
-  "id": "Internal Developer Platform",
+  "id": "IDP",
   "rings": [
     {
       "id": "adopt",
@@ -154,7 +154,7 @@ const data: TechradarData = {
       "blipsByRing": {
         "adopt": [
           {
-            "name": "2 person integrity Vault in Rust",
+            "name": "2-3 person integrity Vault in Rust",
             "state": "up",
             "url": "https://eb.dk/"
           },
